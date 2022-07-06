@@ -1,5 +1,5 @@
-# Scheduler
-A module for scheduling dispatches.
+# Relay Scheduler
+A module for scheduling dispatches but leveraging relay chain number.
 
 - [`scheduler::Config`](https://docs.rs/pallet-scheduler/latest/pallet_scheduler/trait.Config.html)
 - [`Call`](https://docs.rs/pallet-scheduler/latest/pallet_scheduler/enum.Call.html)
